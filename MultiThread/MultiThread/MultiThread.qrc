@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/MultiThread">
+        <file>resource/分支.png</file>
+    </qresource>
+</RCC>
